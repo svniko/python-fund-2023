@@ -9,5 +9,8 @@
 <a href='https://github.com/svniko/python-fund-2023/blob/main/Lecture5.ipynb'>Лекція 5. Списки</a>
 <br>
 <a href='https://github.com/svniko/python-fund-2023/blob/main/Lecture6.ipynb'>Лекція 6. Зрізи, спискові включення та вбудовані функції для списків</a>
+<<<<<<< HEAD
 <br>
 <a href='https://github.com/svniko/python-fund-2023/blob/main/Lecture7.ipynb'>Лекція 7. Користувацькі функції</a>
+=======
+>>>>>>> 63b5acade00232c4350907903c07cf39067083d9
