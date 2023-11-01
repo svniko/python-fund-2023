@@ -14,6 +14,7 @@
 <a href='https://github.com/svniko/python-fund-2023/blob/main/Lecture8.ipynb'>Лекція 8. Користувацькі функції(Закінчення). Введення в рядки</a>
 <br>
 <a href='https://github.com/svniko/python-fund-2023/blob/main/Lecture9.ipynb'>Лекція 9. Методи класу str</a>
-
+<br>
+<a href='https://github.com/svniko/python-fund-2023/blob/main/Lecture10.ipynb'>Лекція 10. Кортежі</a>
 
 
