@@ -21,8 +21,8 @@
 <br>
 <a href='https://github.com/svniko/python-fund-2023/blob/main/Lecture12.ipynb'>Лекція 12. Приклад використання web API</a>
 <br>
-<a href='https://github.com/svniko/python-fund-2023/blob/main/Lecture12.ipynb'>Лекція 13. Множини</a>
+<a href='https://github.com/svniko/python-fund-2023/blob/main/Lecture13.ipynb'>Лекція 13. Множини</a>
 <br>
-<a href='https://github.com/svniko/python-fund-2023/blob/main/Lecture12.ipynb'>Лекція 14. Спискові, множинні та словникові включення. Вирази-генератори. Обробка виключень</a>
+<a href='https://github.com/svniko/python-fund-2023/blob/main/Lecture14.ipynb'>Лекція 14. Спискові, множинні та словникові включення. Вирази-генератори. Обробка виключень</a>
 
 
